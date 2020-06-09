@@ -10,3 +10,4 @@
 
 ## Вариант задания 16
 
+[Задание] https://github.com/Dasha0806/MRZVIS2/blob/master/MRZVIS2/task.PNG
