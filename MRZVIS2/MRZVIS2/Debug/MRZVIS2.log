@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Matrix.cpp
+D:\учёба\2 курс\4 семестр\МРЗвИС\MRZVIS2\MRZVIS2\Matrix.cpp(129,60): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\учёба\2 курс\4 семестр\МРЗвИС\MRZVIS2\MRZVIS2\Matrix.cpp(254,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  MRZVIS2.vcxproj -> D:\учёба\2 курс\4 семестр\МРЗвИС\MRZVIS2\Debug\MRZVIS2.exe
